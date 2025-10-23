@@ -57,7 +57,7 @@ Para executar este projeto localmente, você precisará ter o *Docker* e o *Dock
 
     env
     # String de conexão do MongoDB Atlas
-    MONGO_DB_CONNECTION_STRING="sua_string_de_conexao_aqui"
+    MONGO_DB_CONNECTION_STRING="sua_string_de_conexao_aqui" 
 
     # String de conexão do Azure Blob Storage
     AZURE_BLOB_STORAGE_CONNECTION_STRING="sua_string_de_conexao_aqui"
