@@ -1,3 +1,11 @@
+integrantes: 
+
+Vincenzo Bonatti
+
+Larissa Nunes de Figueredo
+
+Geovanne Meloni dos Santos
+
 # Projeto Rede Social
 
 Este repositório contém o código-fonte de uma aplicação de rede social, construída com uma arquitetura moderna e desacoplada, utilizando React, Docker e serviços de nuvem como Azure e MongoDB Atlas.
